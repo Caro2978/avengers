@@ -3,4 +3,4 @@
 
 * Dr. Doom
 * Red Skull
-* Dr. malo
+* Capitan América
